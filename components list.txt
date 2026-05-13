@@ -1,0 +1,9 @@
+NE555 Timer IC
+LM358 Op-Amp
+Servo Motor
+Potentiometer
+Resistors
+Capacitors
+Breadboard
+Power Supply
+Connecting Wires
